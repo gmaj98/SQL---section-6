@@ -1,0 +1,6 @@
+SHOW databases;
+
+CREATE database shirts;
+
+USE shirts;
+
